@@ -1,5 +1,7 @@
 # Marko crash
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SimenB/marko-crash.svg)](https://greenkeeper.io/)
+
 To reproduce
 ```sh-session
 $ npm install
