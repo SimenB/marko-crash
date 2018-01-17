@@ -1,5 +1,7 @@
 # Marko crash
 
+For issue: https://github.com/marko-js/marko/issues/973
+
 To reproduce
 ```sh-session
 $ npm install
@@ -28,5 +30,4 @@ diff --git i/server.js w/server.js
  });
  
  app.use((err, req, res, next) => {
-
 ```
